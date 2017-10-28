@@ -1,0 +1,9 @@
+body {
+  background-color: #36213E;
+  color: #63768D;
+}
+
+@font-face {
+  font-family: 'FNT';
+  src: url('FNT2.ttf') format('truetype');
+}
