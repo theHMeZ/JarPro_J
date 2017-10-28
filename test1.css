@@ -1,6 +1,8 @@
 body {
   background-color: #36213E;
   color: #63768D;
+  font-family: FNT;
+  text-align: center;
 }
 
 @font-face {
